@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "mocha": "^7.2.0"
+    "mocha": "^10.8.2"
   }
 }
